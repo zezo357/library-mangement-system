@@ -1,0 +1,3 @@
+                          categorie                            Book_ID                          Book_Name                             Author                           Quantity                              Price                             RackNo
+                              Civil                                  4                                  4                                  4                                  4                                 44                                  4
+                           Computer                                  1                                  1                                  1                                  1                                  1                                  1
