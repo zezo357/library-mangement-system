@@ -1,4 +1,7 @@
 # library-mangement-system
+A library mangment system where you have the ability to mange books and issue to students
+
+
 
 command gui for a libary mangment system with the integrated functions (using files)
 //
